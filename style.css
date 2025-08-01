@@ -47,7 +47,7 @@ form input.operator_color{
     color: #33ffd8;
 }
 /* Responsive: Stack rows on small screens */
-@media (max-width: 480px) {
+@media (max-width: 380px) {
     .calculator form input {
         font-size: 1rem;
         margin: 4px;
